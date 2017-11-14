@@ -1,4 +1,4 @@
-﻿git is a distribute version system
+git is a distribute version system
 git is a free software
 1.九张机 -玄觞
 2.walk away -dia frampton

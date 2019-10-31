@@ -10,7 +10,7 @@ use Input;
 
 class AuthController extends Controller
 {
-    //权限列表
+    //权限列表啊啊啊
     public function authList(){
         $rows = gettree(preArr(DB::table('auth')->get()));
         $data = compact('rows');
